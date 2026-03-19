@@ -1,7 +1,7 @@
 # TP
 💻 About Me
 
-Hi! I’m Thanapoom Polamuangdee, a Computer Science student at Thammasat University with a strong academic background.
+Hi! I’m Thanapoom Polamuangdee, a Computer Science student at Thammasat University.
 
 I started my journey in full-stack web development, working with modern technologies like React, Next.js, and Node.js. As I gained more experience building end-to-end systems, my curiosity led me deeper into Data Science and Artificial Intelligence, where I now focus most of my learning and projects.
 
@@ -10,8 +10,7 @@ I’m particularly interested in:
 	•	📊 Data Science & Data Engineering
 	•	🔍 Vector Search & Retrieval-Augmented Generation (RAG)
 	•	👁️ Computer Vision
-
-I enjoy building real-world applications — from full-stack systems to AI-powered solutions like chatbots, recommendation systems, and object detection models.
+	•	⚙️ Backend Development & Scalable Systems 
 
 ___
 
