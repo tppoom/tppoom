@@ -13,7 +13,7 @@ I’m particularly interested in:
 
 I enjoy building real-world applications — from full-stack systems to AI-powered solutions like chatbots, recommendation systems, and object detection models.
 
-⸻
+___
 
 ⚡ Tech Stack
 
@@ -32,7 +32,7 @@ MySQL, MongoDB, Milvus
 Tools & Cloud:
 AWS (EC2, S3, RDS), Docker, Git, REST APIs
 
-⸻
+___
 
 🚀 Highlight Projects
 	•	Miley – AI Chatbot
@@ -44,7 +44,7 @@ Full-stack ordering system with real-time features using Next.js + MongoDB
 	•	Chalapao – Rental Platform
 Designed scalable full-stack web platform
 
-⸻
+___
 
 📫 Contact
 	•	Email: thanapoom.polamuangdee@gmail.com
